@@ -1,0 +1,13 @@
+node_modules
+config/config.json
+config/dev
+config/prod
+config/test
+tmp
+.git
+.idea
+.DS_Store
+frontend/bower_components
+/frontend/dist
+/dump.rdb
+/NodeBB

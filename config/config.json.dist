@@ -1,0 +1,23 @@
+{
+    "prod": {
+        "username": "dev",
+        "password": "developer",
+        "database": "template",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "dev": {
+        "username": "dev",
+        "password": "developer",
+        "database": "template",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "dev",
+        "password": "developer",
+        "database": "template",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
