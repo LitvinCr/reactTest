@@ -11,3 +11,10 @@ frontend/bower_components
 /frontend/dist
 /dump.rdb
 /NodeBB
+node_modules
+npm-debug.log
+.tmp
+public
+compiled
+.swp
+.vscode
